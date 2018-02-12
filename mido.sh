@@ -1,6 +1,6 @@
 #Device specific BLOBS 
 git clone https://github.com/badboy-arbaz/android_device_xiaomi_mido.git -b aicp_mr1 device/xiaomi/mido
-git clone https://github.com/badboy-arbaz/kernel_xiaomi_msm8953.git -b nucleon_oreo kernel/xiaomi/msm8953
+git clone https://github.com/badboy-arbaz/kernel_xiaomi_msm8953.git -b dev/or2 kernel/xiaomi/msm8953
 git clone https://github.com/badboy-arbaz/proprietary_vendor_xiaomi.git -b oreo-mr1 vendor/xiaomi 
 
 #VoLTE Shit 
