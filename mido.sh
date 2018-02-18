@@ -24,3 +24,6 @@ rm -rf hardware/qcom/display-caf
 git clone https://github.com/IamJoker03/hardware_qcom_display.git -b oreo-8996 hardware/qcom/display-caf/msm8996
 rm -rf hardware/qcom/media-caf 
 git clone https://github.com/IamJoker03/hardware_qcom_media.git -b oreo-8996 hardware/qcom/media-caf/msm8996
+
+# Device Settings
+git clone https://github.com/LineageOS/android_packages_resources_devicesettings -b lineage-15.1 packages/resources/devicesettings
