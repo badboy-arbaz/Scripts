@@ -27,3 +27,6 @@ git clone https://github.com/IamJoker03/hardware_qcom_media.git -b oreo-8996 har
 
 # Device Settings
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings -b lineage-15.1 packages/resources/devicesettings
+
+#linaro toolchain
+git clone https://github.com/BenzoRoms/aarch64-linux-android-7.2.git -b linaro prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-7.2
